@@ -1,0 +1,16 @@
+Website: Myntra (https://www.myntra.com/sarees)
+
+PRODUCT TITLE:
+Tag: h4
+Class: product-product
+CSS Selector: h4.product-product
+
+PRODUCT PRICE:
+Tag: div > span
+Class: product-price
+CSS Selector: div.product-price > span
+
+PRODUCT LINK:
+Tag: a
+Class: product-base
+CSS Selector: a.product-base
